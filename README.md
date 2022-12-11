@@ -1,6 +1,6 @@
 # Improving SogCLR with Intermediate-layer Loss and New Data Augmentation
 
-This repo stores the codes for TAMU CSCE 689 optimization for machine learning course project. In this project, we propose two strategies to improve a self-supervised learning framework [SogCLR](https://arxiv.org/abs/2202.12387), including intermediate loss and new data augmentations. In this repo, you can run the improved SogCLR on CIFAR-10 and CIFAR-100 datasets. We recommend to run codes on a GPU-enabled environment, e.g., [Google Colab](https://colab.research.google.com/). You can run our codes in this [Google Colab Notebook](https://colab.research.google.com/drive/1WtaHmpwsMgLMnzcLeXx_YliOoXEb70RT?usp=sharing)
+This repo stores the codes for TAMU CSCE 689 optimization for machine learning course project. In this project, we propose two strategies to improve a self-supervised learning framework [SogCLR](https://arxiv.org/abs/2202.12387), including intermediate loss and new data augmentations. In this repo, you can run the improved SogCLR on CIFAR-10 and CIFAR-100 datasets. We recommend to run codes on a GPU-enabled environment, e.g., [Google Colab](https://colab.research.google.com/). You can run our codes in this [Google Colab Notebook](https://colab.research.google.com/drive/1WtaHmpwsMgLMnzcLeXx_YliOoXEb70RT?usp=sharing).
 
 
 ## Installation
